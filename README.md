@@ -9,7 +9,7 @@ ___  ___ _____ ______  _       ______  ___
 \_|  |_/ \___/ |___/  \_____/ \_| |_/\___/ 
 ```
 
-### ⚛️ React Developer · 🎨 Web Designer · 🔌 API & WebSocket Engineer
+### ⚛️ React Developer · 🎨 Web Designer · 🔌 node js Developer
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=61DAFB&center=true&vCenter=true&width=500&lines=Building+responsive+web+apps;React+%7C+TypeScript+%7C+Node.js;API+%26+WebSocket+Development;WordPress+%26+UI%2FUX+Design" alt="Typing SVG" />
 
